@@ -1,0 +1,5 @@
+Python 3.7
+[Demucs](https://github.com/facebookresearch/demucs)
+ffmpeg
+pydub
+Flask
